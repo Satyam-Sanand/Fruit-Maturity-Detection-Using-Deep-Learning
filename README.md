@@ -21,3 +21,8 @@ Evaluates model accuracy on unseen test data.
 Achieved 95.0% accuracy.
 ### VGG16 : 
 Achieved 91.6% accuracy.
+
+
+## Dataset :
+Using dataset Fruits fresh and rotten for classification (dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten each) taken from Kaggle.
+### Link - "https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification"
